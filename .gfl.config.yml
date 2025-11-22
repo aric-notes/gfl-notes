@@ -1,6 +1,0 @@
-debug: true
-devBaseBranch: release
-productionBranch: main
-featurePrefix: feat
-fixPrefix: fix
-hotfixPrefix: hotfix
