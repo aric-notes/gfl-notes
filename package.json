@@ -1,0 +1,8 @@
+{
+  "name": "gfl-notes",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Gfl test notes.",
+  "license": "MIT"
+}
