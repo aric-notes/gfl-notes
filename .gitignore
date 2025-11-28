@@ -14,5 +14,3 @@ package-lock.json
 
 # python cache
 __pycache__
-
-.gfl.config.local.yml
