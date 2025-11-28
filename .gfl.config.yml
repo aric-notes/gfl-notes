@@ -1,0 +1,6 @@
+debug: true
+devBaseBranch: dev
+productionBranch: main
+featurePrefix: feature
+fixPrefix: fix
+hotfixPrefix: hotfix
