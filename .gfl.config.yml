@@ -1,6 +1,8 @@
 debug: true
-devBaseBranch: release
+devBaseBranch: dev
 productionBranch: main
+nickname: aric
 featurePrefix: feature
 fixPrefix: fix
 hotfixPrefix: hotfix
+branchCaseFormat: lower
