@@ -1,5 +1,5 @@
 debug: true
-devBaseBranch: dev
+devBaseBranch: release
 productionBranch: main
 nickname: aric
 featurePrefix: feature
